@@ -1,0 +1,25 @@
+
+body{
+    background:#c3d8f7;
+}
+.container{
+    margin-left:  auto;
+    margin-right: auto;
+    margin-top:   auto;
+    width: 250px;
+    height:400px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    background:#f7faf9;
+    border-radius:35px;
+}
+img{
+    border-radius:35px;
+}
+.my-text {
+    font-family: "MyFont", santic text black;
+    font-size: 16px;
+    text-align:center;
+}
